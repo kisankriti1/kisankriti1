@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/kisankriti1/kisankriti1/assets/122908786/a5ab4893-8697-416d-8226-ff80f257026c)
+![logo]([![image](https://github.com/kisankriti1/kisankriti1/assets/122908786/a5ab4893-8697-416d-8226-ff80f257026c](https://github.com/kisankriti1/kisankriti1/blob/main/terraform-article.jpg))
 )
 <h1 align="center">Hi 👋, I'm virendra rauniyar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
